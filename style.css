@@ -49,6 +49,7 @@ body {
   flex-wrap: wrap;
   /* Compensate for excess margin on outer gallery flex items */
   margin: -1rem -1rem;
+  content-visibility: auto;
 }
 
 .gallery-item {
