@@ -73,6 +73,10 @@ body {
   transform: scale(1.15);
 }
 
+.hero {
+  margin-bottom: 1.5rem;
+}
+
 /*
 
 The following rule will only run if your browser supports CSS grid.
